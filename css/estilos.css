@@ -1,4 +1,5 @@
 body{
+    background-color: grey;
     color: blue;
     text-align: center;
     font-family: "Arial";
@@ -33,4 +34,16 @@ body{
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    background-color: white;
+    padding: 1em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
